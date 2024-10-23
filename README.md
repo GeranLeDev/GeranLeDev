@@ -1,8 +1,11 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Matis</h1>
+<h3 align="center">A passionate software engineer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geranledev&label=Profile%20views&color=000000&style=flat" alt="geranledev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geranledev" alt="geranledev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geranledev&theme=onedark" alt="geranledev" /></a> </p>
+
+- 📫 How to reach me **matisgeran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
