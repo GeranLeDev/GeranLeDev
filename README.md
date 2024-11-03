@@ -31,7 +31,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **school projects, DevOps tasks, and coding challenges**
+- 🔭 I’m currently working on **school projects, DevOps tasks, and coding challenges :)**
 - 🌱 I’m expanding my knowledge in **Python, PHP, and DevOps tools like Docker and Azure**
 - 👯 I’m open to collaborating on **open-source projects** and **tech communities**
 - 📫 How to reach me: **matisgeran@gmail.com**
